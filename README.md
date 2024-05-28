@@ -26,15 +26,12 @@
 <body>
   <h1>LinkedIn Data Enrichment Proposal</h1>
   
-  <h2>Overview:</h2>
-  <p>We are seeking a freelancer experienced in data extraction and automation to enrich our existing Excel database of over 6,000 IT providers. The primary objective is to identify if each company listed in our database has a LinkedIn profile and, if so, to retrieve the complete URL of the company's LinkedIn page, including the About section. Additionally, we aim to extract key information such as the company description, size, headquarters location, and specialties, and populate this data into our Excel file.</p>
-
   <h2>Methodology:</h2>
   <p>The LinkedIn Company Data Scraping System combines two powerful spiders for extracting valuable data from LinkedIn: the Linkedin Directory Scraper and the Company Profile Scraper Python files. This system provides a comprehensive solution for gathering company information for various purposes, including research, analytics, building solutions, and more.</p>
 
   <div class="flowchart">
     <h2>Flowchart:</h2>
-    <img src="linkedin_data_enrichment_process_updated.png" alt="LinkedIn Data Enrichment Process Flowchart">
+    <img src="flujograma.png" alt="LinkedIn Data Enrichment Process Flowchart">
     <p>Flowchart: LinkedIn Data Enrichment Process</p>
   </div>
 
