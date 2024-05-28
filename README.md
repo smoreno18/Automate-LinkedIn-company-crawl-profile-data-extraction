@@ -41,12 +41,5 @@
     <li>A brief report summarizing the method used for data extraction and any challenges encountered.</li>
   </ol>
 
-  <h2>Requirements:</h2>
-  <ul>
-    <li>Proven experience with data scraping and automation tools.</li>
-    <li>Ability to accurately link Excel entries to corresponding LinkedIn profiles.</li>
-    <li>Capability to handle a large dataset efficiently and with high accuracy.</li>
-  </ul>
-
 </body>
 </html>
