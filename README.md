@@ -48,8 +48,5 @@
     <li>Capability to handle a large dataset efficiently and with high accuracy.</li>
   </ul>
 
-  <h2>Additional Considerations:</h2>
-  <p>This project requires meticulous attention to detail and familiarity with LinkedIn's structure to ensure accurate data retrieval. The included flowchart provides a comprehensive overview of the methodology, reinforcing our commitment to a systematic and efficient approach.</p>
-
 </body>
 </html>
