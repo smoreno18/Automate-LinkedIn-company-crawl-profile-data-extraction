@@ -1,4 +1,3 @@
-# Automate-LinkedIn-company-crawl-profile-data-extraction
 <!DOCTYPE html>
 <html lang="en">
 <head>
